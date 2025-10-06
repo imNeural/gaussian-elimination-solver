@@ -1,9 +1,9 @@
 # Gaussian Elimination Calculator
 
 [](https://opensource.org/licenses/MIT)
-[](https://www.google.com/search?q=https://gaussian-elimination-solver.vercel.app) A web application that solves systems of linear equations with a step-by-step visualization of the Gaussian elimination process. This tool is designed for students, educators, and professionals who need to understand the mechanics of this fundamental linear algebra algorithm.
+[](https://gaussian-elimination-solver.vercel.app/) A web application that solves systems of linear equations with a step-by-step visualization of the Gaussian elimination process. This tool is designed for students, educators, and professionals who need to understand the mechanics of this fundamental linear algebra algorithm.
 
-**[Live Demo](https://www.google.com/search?q=https://gaussian-elimination-solver.vercel.app)**  
+**[Live Demo](https://gaussian-elimination-solver.vercel.app/)**  
 
 # Features
 
@@ -71,4 +71,4 @@ This project is configured for seamless deployment on **Vercel**. The `vercel.js
 
 ## License
 
-This project is licensed under the MIT License. [cite\_start]See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
